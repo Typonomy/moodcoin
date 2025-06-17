@@ -3,9 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
-#import spacy
 import random
-#from spacytextblob.spacytextblob import SpacyTextBlob
 from nrclex import NRCLex
 import pandas as pd
 from datetime import datetime
