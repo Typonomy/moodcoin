@@ -10,7 +10,7 @@ from nrclex import NRCLex
 import pandas as pd
 from datetime import datetime
 
-#Post to jack
+
 #I made a "coin" that's pegged to the mood of the website.  It detects trust across all posts, incentivizing good behavior.  You can do #any emotion, short it with anger etc.
 
 moodcoin=10.00      #moodcoin starts at 10.
