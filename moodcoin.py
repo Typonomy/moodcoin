@@ -12,7 +12,7 @@ from datetime import datetime
 
 
 #I made a "coin" that's pegged to the mood of a social media platform.  It detects trust across all posts, incentivizing good behavior.  
-You can do #any emotion, short it with anger etc.
+#You can do any emotion, short it with anger etc.
 
 moodcoin=10.00      #moodcoin starts at 10.
 
